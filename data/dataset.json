@@ -1,0 +1,117 @@
+{
+  "Balls": {
+    "IR": "NIR.png",
+    "VIS": "VIS.png",
+    "RGB": "photo.png"
+  },
+  "Bosnia": {
+    "IR": "NIR_G.png",
+    "VIS": "VIS_R.png",
+    "RGB": "daylight_image.png"
+  },
+  "Farm": {
+    "IR": "Farm_IR.png",
+    "VIS": "Farm_Vis.png",
+    "RGB": "photo.png"
+  },
+  "House": {
+    "IR": "NIR.png",
+    "VIS": "VIS.png",
+    "RGB": "photo.png"
+  },
+  "Kaptein_01": {
+    "IR": "NIR01.png",
+    "VIS": "Vis01.png",
+    "RGB": "photo.png"
+  },
+  "Kaptein_1123": {
+    "IR": "Kaptein_1123_IR.png",
+    "VIS": "Kaptein_1123_Vis.png",
+    "RGB": "photo.png"
+  },
+  "Kaptein_1654": {
+    "IR": "Kaptein_1654_IR.png",
+    "VIS": "Kaptein_1654_Vis.png",
+    "RGB": "Kaptein_1654_ref_with_man.png"
+  },
+  "Kaptein_19": {
+    "IR": "NIR19.png",
+    "VIS": "Vis19.png",
+    "RGB": "photo.png"
+  },
+  "Marne_01": {
+    "IR": "Marne_01_IR.png",
+    "VIS": "Marne_01_Vis.png",
+    "RGB": "Marne_01_REF.png"
+  },
+  "Marne_02": {
+    "IR": "Marne_02_IR.png",
+    "VIS": "Marne_02_Vis.png",
+    "RGB": "Marne_02_REF.png"
+  },
+  "Marne_03": {
+    "IR": "Marne_03_IR.png",
+    "VIS": "Marne_03_Vis.png",
+    "RGB": "Marne_03_REF.png"
+  },
+  "Marne_04": {
+    "IR": "Marne_04_IR.png",
+    "VIS": "Marne_04_Vis.png",
+    "RGB": "Marne_04_REF.png"
+  },
+  "Marne_06": {
+    "IR": "Marne_06_IR.png",
+    "VIS": "Marne_06_Vis.png",
+    "RGB": "Marne_06_REF.png"
+  },
+  "Marne_07": {
+    "IR": "Marne_07_IR.png",
+    "VIS": "Marne_07_Vis.png",
+    "RGB": "Marne_07_REF.png"
+  },
+  "Marne_09": {
+    "IR": "Marne_09_IR.png",
+    "VIS": "Marne_09_Vis.png",
+    "RGB": "Marne_09_REF.png"
+  },
+  "Marne_11": {
+    "IR": "Marne_11_IR.png",
+    "VIS": "Marne_11_Vis.png",
+    "RGB": "Marne_11_REF.png"
+  },
+  "Movie_01": {
+    "IR": "Movie_01_IR.png",
+    "VIS": "Movie_01_Vis.png",
+    "RGB": "Movie_01_REF.png"
+  },
+  "Reek": {
+    "IR": "Reek_IR.png",
+    "VIS": "Reek_Vis.png",
+    "RGB": "Reek_REF.png"
+  },
+  "Veluwe": {
+    "IR": "NIR.png",
+    "VIS": "VIS.png",
+    "RGB": null
+  },
+  "Vlasakkers": {
+    "IR": "NIR.png",
+    "VIS": "VIS.png",
+    "RGB": "photo.png"
+  },
+  "barbed_wire_1": {
+    "IR": "B_LWIR.png",
+    "VIS": "R_Vis.png",
+    "RGB": "RGB.png"
+  },
+  "pancake_house": {
+    "IR": "NIR.png",
+    "VIS": "VIS.png",
+    "RGB": "photo.png"
+  },
+  "soldier_behind_smoke": {
+    "IR": "LWIR-MarnehNew_15RGB_603.png",
+    "VIS": "VIS-MarnehNew_15RGB_603.png",
+    "RGB": "RGB-MarnehNew_15RGB_603.png"
+  }
+}
