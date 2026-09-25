@@ -1,0 +1,6 @@
+Scenes: 23
+Own daylight photo retrieved (top-1): 9/22
+Mean entropy      visible 6.97 -> fused 7.46
+Mean avg gradient visible 4.42 -> fused 9.29
+Mean spatial freq visible 8.99 -> fused 19.26
+Mean colourfulness false colour 117.3 -> recoloured 42.4
